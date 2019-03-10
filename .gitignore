@@ -1,0 +1,10 @@
+Build
+Library
+Temp
+/.vs/v15/*.suo
+/*.sln
+/*.csproj
+/*.sqlite
+*.csproj
+obj
+.vs
